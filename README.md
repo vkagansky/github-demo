@@ -1,2 +1,2 @@
-#GitHub Demo Repo
+# GitHub Demo Repo
 This is a demo repo
