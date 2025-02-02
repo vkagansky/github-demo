@@ -6,4 +6,6 @@ This is new line
 # About the project
 **Some description**
 
-#Project objectives
+# Project objectives
+**some objectives**
+Build sample guides
